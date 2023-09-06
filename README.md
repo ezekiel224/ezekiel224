@@ -7,5 +7,3 @@ While I personally believe that information should be free and open to everyone,
 - **Python** - File sorter
 - **Python** - Phone to mouse Gyro-Controls
 - **Batch** - Return old context menu
-- 
-
